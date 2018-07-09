@@ -9,5 +9,3 @@ function scuberGreetingForFeet(rideLength) {
     return "No can do."
   }
 }
-
-console.log(scuberGreetingForFeet(40))
