@@ -13,5 +13,5 @@ function scuberGreetingForFeet(rideLength) {
 
 function ternaryCheckCity(){
 
-  
+
 }
