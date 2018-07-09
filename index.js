@@ -2,5 +2,5 @@
 console.log(ride)
 
 function scuberGreetingForFeet(rideLength){
-  
+
 }
