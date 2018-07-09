@@ -9,3 +9,9 @@ function scuberGreetingForFeet(rideLength) {
     return "No can do."
   }
 }
+
+
+function ternaryCheckCity(){
+
+  
+}
